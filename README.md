@@ -1,6 +1,6 @@
 # Projeto Breathe Out - FETIN 2020
 
-> 🎖️ 3º Lugar - Nível 3 no Inatel  
+> 🎖️ 3º Lugar - Nível 3
 > 💡 Categoria: Saúde e Bem-Estar
 
 ## 👥 Equipe
@@ -11,12 +11,13 @@
 
 ## 📖 Descrição do Projeto
 
-O **Breathe Out** é um projeto que transforma um **incentivador respiratório**, utilizado para auxiliar pacientes na recuperação pulmonar, em um **jogo eletrônico interativo**. O objetivo é tornar os exercícios de reabilitação mais **motivadores, divertidos e eficazes**, ajudando tanto na **recuperação física quanto psicológica** de pacientes afetados por doenças respiratórias, como a **COVID-19**. O projeto foi criado para a [FETIN 2020](https://inatel.br/fetin-revista/revista-fetin-2020/#p=136) e conquistou o 3° lugar.
+O **Breathe Out** é um projeto que transforma um **incentivador respiratório**, utilizado para auxiliar pacientes na recuperação pulmonar, em um **jogo eletrônico interativo**. O objetivo é tornar os exercícios de reabilitação mais **motivadores, divertidos e eficazes**, ajudando tanto na **recuperação física quanto psicológica** de pacientes afetados por doenças respiratórias, como a **COVID-19**. O projeto foi criado para a [FETIN 2020](https://inatel.br/fetin-revista/revista-fetin-2020/#p=136) e conquistou o 3° lugar do nível 3.
 
 ---
 
 ## 🔧 Tecnologias Utilizadas
-- **C# / Unity**
+- **C#**
+- **Unity**
 
 ---
 
