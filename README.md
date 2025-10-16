@@ -11,14 +11,11 @@
 
 ## 📖 Descrição do Projeto
 
-O **Breathe Out** é um projeto que transforma um **incentivador respiratório**, utilizado para auxiliar pacientes na recuperação pulmonar, em um **jogo eletrônico interativo**. O objetivo é tornar os exercícios de reabilitação mais **motivadores, divertidos e eficazes**, ajudando tanto na **recuperação física quanto psicológica** de pacientes afetados por doenças respiratórias, como a **COVID-19**.
+O **Breathe Out** é um projeto que transforma um **incentivador respiratório**, utilizado para auxiliar pacientes na recuperação pulmonar, em um **jogo eletrônico interativo**. O objetivo é tornar os exercícios de reabilitação mais **motivadores, divertidos e eficazes**, ajudando tanto na **recuperação física quanto psicológica** de pacientes afetados por doenças respiratórias, como a **COVID-19**. O projeto foi criado para a [FETIN 2020](https://inatel.br/fetin-revista/revista-fetin-2020/#p=136) e conquistou o 3° lugar.
 
 ---
 
 ## 🔧 Tecnologias Utilizadas
-
-- **Sensor de Pressão PA-100 / PA-100-2000**
-- **C++ / Arduino**
 - **C# / Unity**
 
 ---
